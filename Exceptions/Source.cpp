@@ -1,3 +1,6 @@
+// Matthew Fryman
+// CIS 1202 501
+// December 8, 2024
 #include<iostream>
 #include<new>
 #include<cstdlib>
